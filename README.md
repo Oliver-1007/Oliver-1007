@@ -1,26 +1,26 @@
 <div align="center">
 
-# ¡Hola! 👋 Soy Jorge
+# ¡Hola! Soy Jorge
 
 **Estudiante de Ingeniería en Sistemas** — Universidad de San Carlos de Guatemala (USAC)
-📍 Guatemala City, Guatemala
+ Guatemala City, Guatemala
 
 </div>
 
 ---
 
-### 🚀 Sobre mí
+### Sobre mí
 
 Estudiante de Ingeniería en Ciencias y Sistemas en la USAC, actualmente enfocado en fortalecer mis bases de programación mediante proyectos prácticos en cursos como Introducción a la Programación y Computación (IPC1/IPC2). Me interesa el desarrollo backend y estructuras de datos, y estoy construyendo mi camino para entrar al mercado laboral como **desarrollador junior**.
 
-- 🔭 Actualmente trabajando en proyectos académicos con Java y C# / ASP.NET Core
-- 🌱 Aprendiendo estructuras de datos avanzadas (AVL, matrices dispersas, ABB) implementadas desde cero
-- 💬 Pregúntame sobre Java, C#, POO, o estructuras de datos
-- 📫 Puedes contactarme a través de un issue en cualquiera de mis repositorios
+- Actualmente trabajando en proyectos académicos con Java y C# / ASP.NET Core
+- Aprendiendo estructuras de datos avanzadas (AVL, matrices dispersas, ABB) implementadas desde cero
+- Pregúntame sobre Java, C#, POO, o estructuras de datos
+- Puedes contactarme a través de un issue en cualquiera de mis repositorios
 
 ---
 
-### 🛠️ Stack
+### Stack
 
 <div align="center">
 
@@ -35,18 +35,18 @@ Estudiante de Ingeniería en Ciencias y Sistemas en la USAC, actualmente enfocad
 
 ---
 
-### 📌 Proyectos destacados
+### Proyectos destacados
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| 🛰️ [**Sistema Web de Monitoreo Satelital**](https://github.com/Oliver-1007/SistemaWebDeMonitoreoEntreSatelites-CSharp) | Simulación de red satelital distribuida con TDAs manuales (matriz dispersa, AVL, ABB), API REST multi-instancia y visualización SVG en memoria con Graphviz | C# · ASP.NET Core MVC · .NET 8 |
-| 🎓 [**Sistema Académico**](https://github.com/Oliver-1007/SistemaAcademico-Java) | Plataforma de gestión académica con roles (Administrador, Instructor, Estudiante), MVC, hilos y persistencia por serialización | Java · Swing |
-| 👕 [**Sistema de Inventario**](https://github.com/Oliver-1007/SistemaInventario-Java) | Sistema de consola para gestión de inventario de tienda de ropa: productos, ventas y reportes en HTML | Java |
-| 👾 [**Pac-Man en Consola**](https://github.com/Oliver-1007/PacManEnConsola-Java) | Recreación del clásico Pac-Man jugable en consola, usando lógica de autómatas y arreglos nativos | Java |
+| [**Sistema Web de Monitoreo Satelital**](https://github.com/Oliver-1007/SistemaWebDeMonitoreoEntreSatelites-CSharp) | Simulación de red satelital distribuida con TDAs manuales (matriz dispersa, AVL, ABB), API REST multi-instancia y visualización SVG en memoria con Graphviz | C# · ASP.NET Core MVC · .NET 8 |
+| [**Sistema Académico**](https://github.com/Oliver-1007/SistemaAcademico-Java) | Plataforma de gestión académica con roles (Administrador, Instructor, Estudiante), MVC, hilos y persistencia por serialización | Java · Swing |
+| [**Sistema de Inventario**](https://github.com/Oliver-1007/SistemaInventario-Java) | Sistema de consola para gestión de inventario de tienda de ropa: productos, ventas y reportes en HTML | Java |
+| [**Pac-Man en Consola**](https://github.com/Oliver-1007/PacManEnConsola-Java) | Recreación del clásico Pac-Man jugable en consola, usando lógica de autómatas y arreglos nativos | Java |
 
 ---
 
-### 📊 Estadísticas
+### Estadísticas
 
 <div align="center">
 
@@ -59,6 +59,6 @@ Estudiante de Ingeniería en Ciencias y Sistemas en la USAC, actualmente enfocad
 
 <div align="center">
 
-💡 *Abierto a oportunidades como desarrollador junior*
+ *Abierto a oportunidades como desarrollador junior*
 
 </div>
