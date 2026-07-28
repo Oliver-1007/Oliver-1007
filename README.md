@@ -46,17 +46,6 @@ Estudiante de Ingeniería en Ciencias y Sistemas en la USAC, actualmente enfocad
 
 ---
 
-### Estadísticas
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Oliver-1007&show_icons=true&theme=default&hide_title=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oliver-1007&layout=compact)
-
-</div>
-
----
-
 <div align="center">
 
  *Abierto a oportunidades como desarrollador junior*
