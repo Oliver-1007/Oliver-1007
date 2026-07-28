@@ -48,6 +48,6 @@ Estudiante de Ingeniería en Ciencias y Sistemas en la USAC, actualmente enfocad
 
 <div align="center">
 
- *Abierto a oportunidades como desarrollador junior*
+ *Abierto a oportunidades como desarrollador junior | Contacto: tu-correo@gmail.com*
 
 </div>
