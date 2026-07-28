@@ -1,6 +1,6 @@
 <div align="center">
 
-# ¡Hola! Soy Jorge
+# ¡Hola! Soy Oliver
 
 **Estudiante de Ingeniería en Sistemas** — Universidad de San Carlos de Guatemala (USAC)
  Guatemala City, Guatemala
