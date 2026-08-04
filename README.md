@@ -13,7 +13,7 @@
 
 Estudiante de Ingeniería en Ciencias y Sistemas en la USAC, actualmente enfocado en fortalecer mis bases de programación mediante proyectos prácticos en cursos como Introducción a la Programación y Computación (IPC1/IPC2). Me interesa el desarrollo backend y estructuras de datos, y estoy construyendo mi camino para entrar al mercado laboral como **desarrollador junior**.
 
-- Actualmente trabajando en proyectos académicos con Java y C# / ASP.NET Core
+- Actualmente trabajando en proyectos académicos con Java, C# / ASP.NET Core y python
 - Aprendiendo estructuras de datos avanzadas (AVL, matrices dispersas, ABB) implementadas desde cero
 - Pregúntame sobre Java, C#, POO, o estructuras de datos
 - Puedes contactarme a través de un issue en cualquiera de mis repositorios
