@@ -42,7 +42,7 @@ Estudiante de Ingeniería en Ciencias y Sistemas en la USAC, actualmente enfocad
 | [**Sistema Web de Monitoreo Satelital**](https://github.com/Oliver-1007/SistemaWebDeMonitoreoEntreSatelites-CSharp) | Simulación de red satelital distribuida con TDAs manuales (matriz dispersa, AVL, ABB), API REST multi-instancia y visualización SVG en memoria con Graphviz | C# · ASP.NET Core MVC · .NET 8 |
 | [**Sistema Académico**](https://github.com/Oliver-1007/SistemaAcademico-Java) | Plataforma de gestión académica con roles (Administrador, Instructor, Estudiante), MVC, hilos y persistencia por serialización | Java · Swing |
 | [**Sistema de Inventario**](https://github.com/Oliver-1007/SistemaInventario-Java) | Sistema de consola para gestión de inventario de tienda de ropa: productos, ventas y reportes en HTML | Java |
-| [**Pac-Man en Consola**](https://github.com/Oliver-1007/PacManEnConsola-Java) | Recreación del clásico Pac-Man jugable en consola, usando lógica de autómatas y arreglos nativos | Java |
+| [**Validacion y Análisis de partidas Sudoku**]([https://github.com/Oliver-1007/PacManEnConsola-Java](https://github.com/Oliver-1007/Validacion-y-An-lisis-de-Partidas-Sudoku)) | Sistema de consola en Python (POO) que valida y califica intentos de resolución de Sudoku de un torneo, reconstruyendo tableros como matrices 9x9, verificando filas/columnas/cajas y pistas originales, calculando métricas de desempeño y generando informes analíticos en HTML. | Python |
 
 ---
 
